@@ -34,6 +34,12 @@ p {
   width: 100%;
 }
 
+
+#Sec1,#Sec2,#Sec3{
+    position: relative;
+    background: #30F7E5;
+}
+
 /********** Large devices only **********/
 @media (min-width: 992px){
 
@@ -42,10 +48,6 @@ p {
     width: 30%;
   }
 
-
-  #Sec1,#Sec2,#Sec3{
-    position: relative;
-  }
 
   #Sec11,#Sec21,#Sec31{
     position: absolute;
@@ -85,10 +87,6 @@ p {
 
   section{
     width: 47%;
-  }
-
-  #Sec1,#Sec2,#Sec3{
-    position: relative;
   }
 
   #Sec11{
@@ -145,9 +143,6 @@ p {
     width: 100%;
   }
 
-  #Sec1,#Sec2,#Sec3{
-    position: relative;
-  }
 
   #Sec11{
     position: absolute;
