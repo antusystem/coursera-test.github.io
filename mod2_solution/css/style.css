@@ -36,8 +36,8 @@ p {
 
 
 #Sec1,#Sec2,#Sec3{
-    position: relative;
-    background: #30F7E5;
+  position: relative;
+  background-color: #30F7E5;
 }
 
 /********** Large devices only **********/
