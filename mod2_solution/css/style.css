@@ -1,13 +1,13 @@
-	 * {
+* {
       box-sizing: border-box;
-  }
+}
 
-  h1 {
+h1 {
 	  	font-size: 175%;
       text-align: center;
-	}
+}
 
-	section {
+section {
 		font-size: 125%;
 		border: 2px solid black;
     margin-right: 5px;
@@ -15,7 +15,7 @@
     margin-top: 5px;
     margin-left: 5px;
     float: left;
-	}
+}
 
 p {
   border: 1px solid black;
@@ -29,6 +29,7 @@ p {
   font-size: 75%;
   text-align: left;
   padding: 5px;
+  margin-top: 55px;
 }
 
 .row {
@@ -77,10 +78,7 @@ p {
   }
 
 
-  #p1,#p2,#p3{
-    margin-top: 55px
-  }
-  
+
 }
 
 /********** Medium devices only **********/
@@ -131,10 +129,6 @@ p {
     top:  -2px;
     width: 130px;
   }
-
-    #p1,#p2,#p3{
-    margin-top: 55px
-  }
 }
 
 
@@ -177,10 +171,5 @@ p {
     top:  -2px;
     width: 130px;
   }
-
-    #p1,#p2,#p3{
-    margin-top: 55px
-  }
-
 }
 
