@@ -4,7 +4,7 @@ var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos) {
     document.getElementById("header-nav").style.top = "0";
   } else {
-    document.getElementById("header-nav").style.top = "-50px";
+    document.getElementById("header-nav").style.top = "-65px";
   }
   prevScrollpos = currentScrollPos;
 }
